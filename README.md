@@ -6,4 +6,4 @@ And it would be cool if anybody like my projects and use it:) I could **recommen
 
 #### ![API](https://img.shields.io/badge/Currently_working_on-Ayse-5F9EA0)
 #### ![API](https://img.shields.io/badge/Currently_learning-Vulkan_&_Math-DC143C)
-#### ![API](https://img.shields.io/badge/Yet_it_is_planned-Update_codebase_of_Shutter,_bring_ayse_forwards-8A2BE2) - *and be good at school...*
+#### ![API](https://img.shields.io/badge/Yet_it_is_planned-Update_codebase_of_Shutter,_bring_ayse_forwards-8A2BE2) - *and do my A-Level at school...*
